@@ -1,0 +1,25 @@
+{
+  "name": "influx-stitcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgg/influx-stitcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgg/influx-stitcher/issues"
+  },
+  "homepage": "https://github.com/dgg/influx-stitcher#readme",
+  "dependencies": {
+    "influx": "^5.5.0",
+    "influx-ql": "^2.10.0",
+    "moment": "^2.24.0"
+  }
+}
