@@ -20,7 +20,7 @@
 	"dependencies": {
 		"influx": "^5.5.0",
 		"influx-ql": "^2.10.0",
-		"moment": "^2.24.0"
+		"moment": "^2.29.4"
 	},
 	"devDependencies": {
 		"eslint": "^6.6.0",
